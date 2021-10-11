@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_v3_ie=self.webpackChunkgatsby_v3_ie||[]).push([[678],{704:function(e,l,n){n.r(l),n.d(l,{default:function(){return r}});var t=n(294),u=n(677);function r(){return t.createElement("div",null,t.createElement("div",null,t.createElement("h1",null,"Hello Gatsby v3!")),t.createElement("pre",null,t.createElement("code",null,JSON.stringify((0,u.R2)(),null,2))))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-9f7f0e53fdfe1c2f3060.js.map
